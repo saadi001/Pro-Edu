@@ -1,5 +1,7 @@
 
 .carous-caption {
-    top: 30%;
-    
+    top: 35%;
+}
+.cover-image{
+    filter: brightness(50%);
 }
